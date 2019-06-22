@@ -1,0 +1,6 @@
+Submitting challenge09 assignment ...
+
+Submitting challenge09 program.py ...
+  Result Success
+   Score 6.00
+    Time 0.03
